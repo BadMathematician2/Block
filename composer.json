@@ -20,7 +20,7 @@
                 "Block\\BlockServiceProvider"
             ],
             "aliases": {
-                "ContextMenu": "Block\\BlocFacade"
+                "Block": "Block\\BlocFacade"
             }
         }
     }
